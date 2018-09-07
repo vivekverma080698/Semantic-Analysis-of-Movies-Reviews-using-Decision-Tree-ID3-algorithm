@@ -1,0 +1,31 @@
+/*-----------------------------------------------
+
+Vivek Kumar Verma
+2016csb1064
+
+-----------------------------------------------*/
+
+Requirement
+
+	---Python3
+	---numpy
+
+How to Run
+	Directory should be same as provided in compressed file.
+	Do not copy or paste the file in any other directory
+
+First you have to run generate.py file This ile will create the random data which is used in other experiment
+$python3 generate.py
+
+Now you can run the other experiment
+
+$python3 assgn.py (option 2,3,4,5)
+
+
+
+I have also included trained model incase if something happen wrong
+
+For any Query 
+2016csb1064@iitrpr.ac.in  
+
+
